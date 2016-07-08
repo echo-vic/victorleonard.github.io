@@ -1,0 +1,25 @@
+#pageslide {
+    /* These styles MUST be included. Do not change. */
+    display: none;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    z-index: 999;
+    
+    /* Specify the width of your pageslide here */
+    width: 250px;
+    padding: 20px;
+    
+    /* These styles are optional, and describe how the pageslide will look */
+    background-color: #333;
+    color: #ccc;
+    -webkit-box-shadow: inset 0 0 5px 5px #222;
+    -moz-shadow: inset 0 0 5px 5px #222;
+    box-shadow: inset 0 0 5px 5px #222;
+}
+
+/* AJOUT PAR SPYKREW07 */
+
+#pageslide h3 {color:#fff!important; margin:0px; padding:0 0 15px 0;}
+#pageslide .date {margin:0px; padding:0px;}
